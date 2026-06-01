@@ -1,4 +1,4 @@
 .env
 .env.local
-node_module
+node_modules
 cookies.txt
